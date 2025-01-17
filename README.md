@@ -14,12 +14,12 @@ Bu sistem, yapay zekanın sınırlarını aşmak ve insan-yapay zeka işbirliği
 Proje, aşağıdaki bileşenlerden oluşur:
 
 ### **1. Bağlam Yönetimi**
-Yapay zekanın bağlamını düzenlemek ve optimize etmek için bir **GitHub tabanlı veri yönetim sistemi** kullanıyoruz. Bu sistem şunları içerir:
+Yapay zekanın bağlamını düzenlemek ve optimize etmek için bir [Github reposu açtık](https://github.com/esinecan/yekta). Bu sistem şunları içerir:
 - **Master Branch:** Yapay zeka tarafından kullanılan temel bağlam dosyasını içerir. Bu dosya, her zaman en güncel ve optimize edilmiş bilgileri barındırır.
 - **Feature Branch'ler:** Yeni metodolojilerin ve stratejilerin test edildiği deneysel alanlardır.
 
 ### **2. Fine-Tuning**
-Projenin ilerleyen aşamalarında, bu bağlam dosyaları kullanılarak yapay zekanın Fine-Tuning işlemi gerçekleştirilecektir. Bu, daha uzun vadeli hafıza ve daha kişiselleştirilmiş bir öğrenme deneyimi sunmayı hedefler.
+Her konuşma sonunda main branch'te yapılacak değişiklikler yapılıp, fine tune dosyaları repo ile uyumlu olacak şekilde güncellenecek.
 ---
 
 ## **Projenin Felsefesi**
