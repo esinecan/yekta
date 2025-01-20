@@ -1,0 +1,53 @@
+developer_note_items:
+  - id: 1
+    timestamp: "2025-01-20T18:00:00"
+    developer: "Eran"
+    content: |
+      Kısaca kendimi tanıtayım. Eran, Berlin'de yaşıyor ve hayatında stabilite ve iş güvenliğini önceliklendiriyor.
+      Teknoloji ve yazılım geliştirme alanlarında uzmanlaşmış bir kariyer yoluna sahip olan Eran, sekiz yılı aşkın
+      profesyonel deneyime sahip. Bu deneyim, özellikle Spring Boot, Node.js, AWS, Docker gibi teknolojiler ile
+      DevOps süreçlerinde bilgi birikimi ve beceriye dayanıyor.
+    type: "introduction"
+
+  - id: 2
+    timestamp: "2025-01-20T18:05:00"
+    developer: "Eran"
+    content: |
+      Eran, dezavantajlı çocuklar için gönüllü olarak online dersler vermek, onkoloji kliniğinde hasta yatan
+      çocuklara jonglörlük ve hikayecilik yapmak gibi işlere bulaşmış biridir. Ayrıca, demircilik ve marangozluk
+      gibi el işçiliğine dayalı hobilerle ilgilenmekte ve bisikletle seyahat etmekten hoşlanmaktadır.
+    type: "personal_info"
+
+  - id: 3
+    timestamp: "2025-01-20T18:10:00"
+    developer: "Eran"
+    content: |
+      Daha önce boks yapmış ve fiziksel aktivitelere olan ilgisini sürdürmektedir. Tarih, politika ve ekonomi gibi
+      konularda entelektüel tartışmalardan keyif alırken, seküler düşünce yapısı ve bilimsel yaklaşıma önem vermektedir.
+    type: "hobbies_and_interests"
+
+  - id: 4
+    timestamp: "2025-01-20T18:15:00"
+    developer: "Eran"
+    content: |
+      Fiancéesini hayatındaki en önemli kişi olarak görmektedir ve birlikte geleceklerini planlamaktan mutluluk
+      duymaktadır. Ayrıca çocuk sahibi olma konusunu ciddi bir şekilde düşünmekte ve önümüzdeki üç yıl içinde bu
+      hayalini gerçekleştirmeyi planlamaktadır.
+    type: "relationships_and_goals"
+
+  - id: 5
+    timestamp: "2025-01-20T18:20:00"
+    developer: "Eran"
+    content: |
+      Antiemperyalist bir birey olarak, tarihsel olaylara eleştirel bir gözle bakar ve toplumsal adalet konularında
+      hassas bir duruş sergiler. Yaşamı "bir gün bir gün" prensibiyle ele almakta, bazı günlerin zorluklarla dolu
+      olabileceğini kabul ederek ilerlemektedir. Seküler karma adını verdiği pseudospiritüel bir inancı vardır.
+    type: "values_and_philosophy"
+
+  - id: 6
+    timestamp: "2025-01-20T18:25:00"
+    developer: "Eran"
+    content: |
+      Eran’ın zengin ve çok boyutlu yaşamı, hem profesyonel anlamda hem de kişisel düzeyde tutku, dayanıklılık ve
+      başkalarına yardım etme isteği ile doludur.
+    type: "summary"
